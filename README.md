@@ -2,7 +2,7 @@
 <h3 align="center">UTMN student</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on calendar<br>🌱 I’m currently learning c++, c#<br>⚡ Fun fact like coding, studies at UTMN 1 course
+🔭 I’m currently working on calendar<br>🌱 I’m currently learning c++, c#<br>⚡ Fun fact like coding, studies at UTMN 2 course
 
 
 ## 🌐 Socials:
