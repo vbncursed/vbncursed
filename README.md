@@ -2,7 +2,7 @@
 <h3 align="center">UTMN student</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning swift<br>💬 Ask me about python, c++<br>⚡ Fun fact: I'm tall, 194 centimeters, 19 years old
+🌱 I’m currently learning swift<br>💬 Ask me about python, c++<br>⚡ Fun fact: I'm tall, 190 centimeters, 20 years old
 
 
 ## 🌐 Socials:
