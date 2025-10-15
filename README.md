@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edvard</h1>
+<h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">UTMN student</h3>
 
 # 💫 About Me:
