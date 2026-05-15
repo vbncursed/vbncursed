@@ -17,8 +17,8 @@ Go-разработчик с фокусом на backend и микросерви
 
 - 🛠 **Сейчас:** миграция .NET-стека (WCF + WPF) на **15 gRPC-сервисов** на Go и веб-фронт на React 19
 - 🧪 **Стек дома:** Go, PostgreSQL, Kafka, Redis, Docker, Kubernetes
-- 📚 **Читаю:** распределённые системы, performance engineering
-- 🌍 Тюмень / удалённо / релокация
+- 📚 **Читаю:** распределенные системы, performance engineering
+- 🌍 Тюмень / удаленно / релокация
 
 ---
 
@@ -59,9 +59,9 @@ Go-разработчик с фокусом на backend и микросерви
 | Project | Stack | What it does |
 |---|---|---|
 | **[Experra2](https://vbncursed.fun/projects/experra2)** | Go · gRPC · PostgreSQL · React 19 | Миграция .NET-стека (WCF + WPF) на 15 gRPC-сервисов (~225k LOC Go, 127 proto) под единым `grpc-gateway v2`. p95 ~3×, RAM на сервис ~70 МБ vs ~350 МБ на легаси. |
-| **[MPC-2FA](https://vbncursed.fun/projects/mpc-2fa)** | Go · Shamir SSS · gRPC · Next.js 16 | Распределённое хранение TOTP-секретов: Shamir 2-of-3 в GF(256), AES-256-GCM, mTLS, JWT RS256. Shamir и TOTP (RFC 6238) написаны с нуля. |
+| **[MPC-2FA](https://vbncursed.fun/projects/mpc-2fa)** | Go · Shamir SSS · gRPC · Next.js 16 | Распределенное хранение TOTP-секретов: Shamir 2-of-3 в GF(256), AES-256-GCM, mTLS, JWT RS256. Shamir и TOTP (RFC 6238) написаны с нуля. |
 | **[Rask.pro](https://vbncursed.fun/projects/rask)** | Go · Kafka · PostgreSQL · ClickHouse | Аналитика продавцов маркетплейсов. p95 ~8×, образы Docker ~25×, GC-паузы 120 → 15 мс. |
-| **[Monopoly Tracker](https://vbncursed.fun/projects/monopoly-tracker)** | Swift 6.2 · SwiftUI · SwiftData | iOS-приложение для учёта партии. Журнал транзакций как single source of truth, cold launch 305 мс, бандл 3.4 МБ. |
+| **[Monopoly Tracker](https://vbncursed.fun/projects/monopoly-tracker)** | Swift 6.2 · SwiftUI · SwiftData | iOS-приложение для учета партии. Журнал транзакций как single source of truth, cold launch 305 мс, бандл 3.4 МБ. |
 
 Полное портфолио: **[vbncursed.fun](https://vbncursed.fun)**
 
