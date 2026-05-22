@@ -17,7 +17,7 @@ Go-разработчик с фокусом на backend и микросерви
 
 - 🛠 **Сейчас:** миграция .NET-стека (WCF + WPF) на **15 gRPC-сервисов** на Go и веб-фронт на React 19
 - 🧪 **Стек дома:** Go, PostgreSQL, Kafka, Redis, Docker, Kubernetes
-- 📚 **Читаю:** распределенные системы, performance engineering
+- 📚 **Интересуюсь:** распределенными системами, performance engineering
 - 🌍 Тюмень / удаленно / релокация
 
 ---
