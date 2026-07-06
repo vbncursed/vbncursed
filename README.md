@@ -37,6 +37,7 @@ Go-разработчик с фокусом на backend и микросерви
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -62,6 +63,7 @@ Go-разработчик с фокусом на backend и микросерви
 | **[MPC-2FA](https://vbncursed.fun/projects/mpc-2fa)** | Go · Shamir SSS · gRPC · Next.js 16 | Распределенное хранение TOTP-секретов: Shamir 2-of-3 в GF(256), AES-256-GCM, mTLS, JWT RS256. Shamir и TOTP (RFC 6238) написаны с нуля. |
 | **[Rask.pro](https://vbncursed.fun/projects/rask)** | Go · Kafka · PostgreSQL · ClickHouse | Аналитика продавцов маркетплейсов. p95 ~8×, образы Docker ~25×, GC-паузы 120 → 15 мс. |
 | **[Monopoly Tracker](https://vbncursed.fun/projects/monopoly-tracker)** | Swift 6.2 · SwiftUI · SwiftData | iOS-приложение для учета партии. Журнал транзакций как single source of truth, cold launch 305 мс, бандл 3.4 МБ. |
+| **[Andrey 3D Viewer](https://vbncursed.fun/projects/andrey)** | Go · gRPC · Redis Streams · Three.js · Next.js 16 | Браузерный вьюер тяжёлых OBJ-моделей (100+ МБ). 8 gRPC-сервисов + серверный конвейер OBJ→GLB (Draco-сжатие · KTX2-текстуры · LOD 50/25%); браузер грузит компактные бинарники вместо ASCII, scene-bundle 4 запроса → 1, SSE вместо polling. |
 
 Полное портфолио: **[vbncursed.fun](https://vbncursed.fun)**
 
